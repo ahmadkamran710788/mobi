@@ -1,0 +1,1 @@
+ D:\\MobiFix\\.dart_tool\\flutter_build\\0ba2e1b191b32e12a20a93c960273247\\native_assets.yaml: 
